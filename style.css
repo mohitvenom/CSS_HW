@@ -1,0 +1,53 @@
+.parent{
+    background-color: bisque;
+    height:53rem;
+    width:119rem;
+}
+.child1{
+    background-color: red;
+    height:6rem;
+    width:119rem;
+}
+.child2{
+    text-align: center;
+}
+.child2 span{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.child3{
+    background-color:aquamarine;
+    height:40rem;
+    width:117rem;
+    margin: 0 auto;   
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.child31{
+    background-color: blue;
+    height:30rem;
+    width: 40rem;
+}
+.child32{
+    background-color: gray;
+    height:30rem;
+    width: 75rem;
+    position: relative;
+}
+.child321{
+    background-color: yellow;
+    height:10rem;
+    width: 10rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.child322{
+    background-color: yellowgreen;
+    height:10rem;
+    width: 10rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
