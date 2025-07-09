@@ -1,12 +1,12 @@
 .parent{
     background-color: bisque;
-    height:53rem;
-    width:119rem;
+    height:41rem;
+    width:95rem;
 }
 .child1{
     background-color: red;
     height:6rem;
-    width:119rem;
+    width:95rem;
 }
 .child2{
     text-align: center;
@@ -17,8 +17,8 @@
 }
 .child3{
     background-color:aquamarine;
-    height:40rem;
-    width:117rem;
+    height:30rem;
+    width:93rem;
     margin: 0 auto;   
     display: flex;
     align-items:center;
@@ -26,27 +26,27 @@
 }
 .child31{
     background-color: blue;
-    height:30rem;
-    width: 40rem;
+    height:21rem;
+    width: 30rem;
 }
 .child32{
     background-color: gray;
-    height:30rem;
-    width: 75rem;
+    height:21rem;
+    width: 60rem;
     position: relative;
 }
 .child321{
     background-color: yellow;
-    height:10rem;
-    width: 10rem;
+    height:5rem;
+    width: 5rem;
     position: absolute;
     top: 0;
     left: 0;
 }
 .child322{
     background-color: yellowgreen;
-    height:10rem;
-    width: 10rem;
+    height:5rem;
+    width: 5rem;
     position: absolute;
     bottom: 0;
     right: 0;
